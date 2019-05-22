@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Programming/C#/SnakeMain/SnakeMain/Content/Sprites/Background.png</File>
+    <File>D:/Programming/C#/SnakeMain/SnakeMain/Content/Sprites/Body.png</File>
+    <File>D:/Programming/C#/SnakeMain/SnakeMain/Content/Sprites/End.png</File>
+    <File>D:/Programming/C#/SnakeMain/SnakeMain/Content/Sprites/Food.png</File>
+    <File>D:/Programming/C#/SnakeMain/SnakeMain/Content/Sprites/Head.png</File>
+    <File>D:/Programming/C#/SnakeMain/SnakeMain/Content/Sprites/SharpRetro.spritefont</File>
+    <File>D:/Programming/C#/SnakeMain/SnakeMain/Content/Sprites/lose.png</File>
+    <File>D:/Programming/C#/SnakeMain/SnakeMain/Content/Sprites/start.png</File>
+    <File>D:/Programming/C#/SnakeMain/SnakeMain/Content/Sprites/win.png</File>
+    <File>D:/Programming/C#/SnakeMain/SnakeMain/Content/Sprites/mario.png</File>
+  </SourceFiles>
+</SourceFileCollection>
